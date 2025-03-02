@@ -1,10 +1,10 @@
-#Text Emotion Classification
+# Text Emotion Classification
 
-#Overview
+# Overview
 
 This project aims to classify text into different emotion categories using machine learning techniques. The dataset consists of various text samples labeled with emotions, and a model is trained to predict the emotional category of new text inputs.
 
-#Features
+# Features
 
 Preprocessing of text data
 
@@ -14,7 +14,7 @@ Model training and evaluation
 
 Dataset analysis and visualization
 
-#Dataset
+# Dataset
 
 The dataset contains text samples labeled with emotions such as:
 
